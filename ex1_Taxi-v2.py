@@ -1,4 +1,5 @@
 import gym
+import tensorflow as tf
 
 env = gym.make("Taxi-v2")
 observation = env.reset()
