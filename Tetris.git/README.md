@@ -1,4 +1,8 @@
-﻿#Tetris
+﻿-------------------------------------------
+Forked from ReinforcementLearning/Tetris[https://github.com/ReinforcementLearning/Tetris] 
+-------------------------------------------
+
+#Tetris
 **Reinforcement Leanring for Tetris**  
 
 ###목적
