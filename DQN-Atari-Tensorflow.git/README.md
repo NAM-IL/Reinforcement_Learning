@@ -1,5 +1,6 @@
 -------------------------------------------
-Forked from songrotek/DQN-Atari-Tensorflow[https://github.com/songrotek/DQN-Atari-Tensorflow]
+Forked from songrotek/DQN-Atari-Tensorflow
+[https://github.com/songrotek/DQN-Atari-Tensorflow]
 ------------------------------------------- 
 
 # DQN-Atari-Tensorflow

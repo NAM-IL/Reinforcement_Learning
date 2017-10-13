@@ -1,5 +1,6 @@
 ﻿-------------------------------------------
-Forked from ReinforcementLearning/Tetris[https://github.com/ReinforcementLearning/Tetris] 
+Forked from ReinforcementLearning/Tetris
+[https://github.com/ReinforcementLearning/Tetris] 
 -------------------------------------------
 
 #Tetris
