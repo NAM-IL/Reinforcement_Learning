@@ -1,3 +1,7 @@
+-------------------------------------------
+Forked from songrotek/DQN-Atari-Tensorflow[https://github.com/songrotek/DQN-Atari-Tensorflow]
+------------------------------------------- 
+
 # DQN-Atari-Tensorflow
 
 Reimplementing "Human-Level Control Through Deep Reinforcement Learning" in Tensorflow
